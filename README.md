@@ -2,10 +2,10 @@
 
 As a part of coursework related to the 'Thesis' in Trinity College Dublin, I worked on the topic 'Comparative Analysis of NGBoost and XGBoost'. Following is the Abstract of the same.
 
-##Abstract
+## Abstract
 
-Data scientists are coming up with new ensemble methods of machine learning by doing a little tweak in the way ensemble trees are learned, and the parameters are trained. The concept of Gradient Boosting Machines is running since 2001 (J. H. Friedman, 2001). Gradient boosting comprises of an ensemble of weak models that are combined to output
-one strong prediction model. NGBoost (Natural Gradient Boost) (Duan et al., 2019)
+Data scientists are coming up with new ensemble methods of machine learning by doing a little tweak in the way ensemble trees are learned, and the parameters are trained. The concept of Gradient Boosting Machines is running since 2001. Gradient boosting comprises of an ensemble of weak models that are combined to output
+one strong prediction model. NGBoost (Natural Gradient Boost)
 is one of the recent boosting models that has the feature of giving probabilistic predictions.
 It is built on the principle where a base learner works on parametric probability
 distributions to be measured on a scoring rule.
